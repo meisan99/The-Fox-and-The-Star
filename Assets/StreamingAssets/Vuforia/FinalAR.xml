@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="arOut8" size="1.000000 0.706651" />
+    <ImageTarget name="arOut7" size="1.000000 0.706651" />
+    <ImageTarget name="arOut6" size="1.000000 0.706651" />
+    <ImageTarget name="arOut5" size="1.000000 0.706651" />
+    <ImageTarget name="arOut2" size="1.000000 0.706651" />
+    <ImageTarget name="arOut1" size="1.000000 0.706651" />
+    <ImageTarget name="arOut4" size="1.000000 0.706651" />
+    <ImageTarget name="arOut3" size="1.000000 0.706651" />
+  </Tracking>
+</QCARConfig>
